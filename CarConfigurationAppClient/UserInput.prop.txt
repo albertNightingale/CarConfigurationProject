@@ -1,0 +1,10 @@
+CarModel=Concept
+CarMake=Fararri
+CarPrice=2700000
+Option1=Color
+Option1a=FortKnoxGoldClearcoatMetallic
+Option1b=LiquidGreyClear-coatMetallic
+Option1c=Infra-RedClear-coat
+Option2=Transmission
+Option2a=racemode
+Option2b=automatic

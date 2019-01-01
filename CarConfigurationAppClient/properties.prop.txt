@@ -1,0 +1,10 @@
+CarModel=Concept
+CarMake=Lambogini
+CarPrice=2700000
+Option1=Transmission
+Option1a=Fort Knox Gold Clearcoat Metallic
+Option1b=Liquid Grey Clear-coat Metallic
+Option1c=Infra-Red Clear-coat
+Option2=transmission
+Option2a=racemode
+Option2b=automatic

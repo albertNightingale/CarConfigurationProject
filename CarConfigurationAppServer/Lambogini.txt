@@ -1,0 +1,35 @@
+Lambogini Concept
+1844500
+[Color] 11
+Fort Knox Gold Clearcoat Metallic, 0
+Liquid Grey Clear-coat Metallic, 0
+Infra-Red Clear-coat, 0
+Grabber Green Clear-coat Metallic, 0
+Sangria Red Clearcoat Metallic, 0
+French Blue Clear-coat Metallic, 0
+Twilight Blue Clear-coat Metallic, 0
+CD Silver Clear-coat Metallic, 0Pitch Black Clear-coat, 0
+Cloud 9 White Clear-coat, 0
+Pure Gold, 10000
+[transmission] 3
+race mode, 10000
+automatic, 0
+manual, -815
+[Brakes] 3
+Standard, 0
+ABS, 2000
+ABS with Advance Trac, 12000
+[Air Bags] 2
+None, 0
+Equiped, 4000
+[PowerMoonroof] 2
+None, 0
+Equiped, 1200
+[Tire] 3
+Regular, 0
+Michelin Wired Tires, 30000
+Titanium Martian Rover Wheels, 120000
+[Engine] 3
+Lambo Standard, 0
+F-35, 250000
+Apollo 13, 1500000
